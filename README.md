@@ -1,3 +1,3 @@
 # cs199
-# Our purpose is to set up a simple timer.
+# Our purpose is to set up a simple WEB.
 
